@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wait-for-it.git/static/css/main.cc4f5017.css",
+    "main.js": "/wait-for-it.git/static/js/main.dbe1d860.js",
+    "static/media/logo.png": "/wait-for-it.git/static/media/logo.782525c56c4f7e7682fe.png",
+    "index.html": "/wait-for-it.git/index.html",
+    "main.cc4f5017.css.map": "/wait-for-it.git/static/css/main.cc4f5017.css.map",
+    "main.dbe1d860.js.map": "/wait-for-it.git/static/js/main.dbe1d860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4f5017.css",
+    "static/js/main.dbe1d860.js"
+  ]
+}
