@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/wait-for-it.git/static/css/main.cc4f5017.css",
-    "main.js": "/wait-for-it.git/static/js/main.c39096a9.js",
-    "static/media/logo.png": "/wait-for-it.git/static/media/logo.782525c56c4f7e7682fe.png",
+    "main.css": "/wait-for-it.git/static/css/main.72d9624d.css",
+    "main.js": "/wait-for-it.git/static/js/main.36e65d9b.js",
     "index.html": "/wait-for-it.git/index.html",
-    "main.cc4f5017.css.map": "/wait-for-it.git/static/css/main.cc4f5017.css.map",
-    "main.c39096a9.js.map": "/wait-for-it.git/static/js/main.c39096a9.js.map"
+    "main.72d9624d.css.map": "/wait-for-it.git/static/css/main.72d9624d.css.map",
+    "main.36e65d9b.js.map": "/wait-for-it.git/static/js/main.36e65d9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc4f5017.css",
-    "static/js/main.c39096a9.js"
+    "static/css/main.72d9624d.css",
+    "static/js/main.36e65d9b.js"
   ]
 }
